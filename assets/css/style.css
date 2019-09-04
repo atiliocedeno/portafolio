@@ -1,0 +1,70 @@
+body {
+  font-family: 'Cabin', sans-serif;
+}
+
+.imagen-principal {
+  height: 384px;
+  width: 100% !important;
+}
+
+.principal-box {
+  background-image: url("../img/principal.jpeg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+h1 {
+  font-family: 'Cabin', sans-serif;
+  font-weight: 700;
+  font-size: 40px;
+}
+
+h2 {
+  font-family: 'Cabin', sans-serif;
+  font-weight: 700;
+  font-size: 40px;
+}
+
+h3 {
+  font-family: 'Cabin', sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.carousel-indicators li {
+  background-color: #373A3C;
+  height: 20px !important;
+  width: 20px !important;
+  border-radius: 100%;
+}
+
+.carousel-indicators {
+  top: 155px !important;
+}
+
+.newsletter {
+  height: 534px;
+  background-color: #373A3C;
+}
+
+.logo-footer {
+  height: 125px;
+}
+
+span {
+  font-family: 'Lobster', cursive;
+  font-size: 30px;
+}
+
+.subtitle {
+  width: 40%;
+}
+
+.button {
+  text-align: center;
+}
+
+.bg-dark {
+  background-color: #373A3C;
+}
